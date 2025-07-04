@@ -27,12 +27,9 @@ export const Hero = () => {
               with AI{" "}
             </span>
           </h1>
-          <Paragraph className="mt-8">
-            Our AI SaaS platform seamlessly integrates with your existing
-            workflows to deliver real‑time insights, intelligent automation, and
-            data‑driven decision-making. Experience a future where your business
-            runs smarter, faster, and more efficiently.
-          </Paragraph>
+            <Paragraph className="mt-8 text-lg text-gray-600 text-justify leading-relaxed">
+              Unlock the full potential of your business with our cutting-edge AI SaaS platform. Effortlessly integrate intelligent automation, gain actionable insights, and make smarter, faster decisions—so your team can focus on what matters most.
+            </Paragraph>
           <div className="mt-10 w-full flex max-w-md mx-auto lg:mx-0">
             <div className="flex sm:flex-row flex-col gap-5 w-full">
               <form

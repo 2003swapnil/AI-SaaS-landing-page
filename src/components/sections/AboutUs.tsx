@@ -20,12 +20,13 @@ export const AboutUs = () => {
 
         <div className="w-full md:w-7/12 lg:w-1/2 flex flex-col">
           <Title> About Our AI Solution </Title>
-          <Paragraph>
-            We are on a mission to empower businesses with transformative AI
-            technology. Our team of experts combines industry‑leading research
-            with innovative algorithms to deliver a platform that adapts to your
-            unique needs. Join us and lead the digital revolution in your
-            industry.
+          <Paragraph className="text-justify leading-relaxed">
+            At the forefront of innovation, we empower businesses to unlock their
+            full potential with advanced AI technology. Our passionate team
+            blends deep industry expertise with pioneering research to create
+            intelligent solutions tailored to your unique challenges. Partner with
+            us to transform your operations, accelerate growth, and shape the
+            future of your industry.
           </Paragraph>
 
           <div className="pt-8 grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-3xl">
